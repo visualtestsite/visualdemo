@@ -1,2 +1,0 @@
-# visualdemo
-Test site
